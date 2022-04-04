@@ -1,0 +1,20 @@
+APP_CONFIG:
+  PORT: 3005
+  HOST: localhost
+DB_CONFIG:
+  PORT: 3306
+  HOST: localhost
+  PASSWORD: 
+  USER: root
+  DB: wfms_db
+REDIC_CONFIG: 
+  PORT: 
+  HOST: 
+  PASSWORD: 
+  CLUSTER: 
+  TIMEOUT: 
+  CACHING: 
+ELASTIC_CONFIG: 
+  HOST: 
+  PORT: 
+SECRET_KEY: wfmssecretkey1234567890
